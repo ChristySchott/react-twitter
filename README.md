@@ -14,7 +14,7 @@
 
 ## 💻 Projeto
 
-O projeto é uma reprodução da página inicial do Twiiter e foi desenvolvido para praticar rapidamente o uso da Semantic UI e a componentização no React. Em breve serão feitas alterações no projeto, utilizando o CSS Modules para tornar o código mais limpo e haver menos conflito nas folhas de estilo.
+O projeto é uma reprodução da página inicial do Twiiter e foi desenvolvido para praticar rapidamente o uso da Semantic UI e a componentização no React. Em breve serão feitas alterações no projeto, utilizando o CSS Modules para tornar o código mais limpo e evitar conflitos nas folhas de estilo.
 
 ## :rocket: Tecnologias
 
