@@ -1,0 +1,13 @@
+body {
+    background: rgba(219, 219, 243, .3);
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    width: 90%;
+    max-width: 1100px;
+    margin: 5px auto;
+}

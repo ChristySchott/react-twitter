@@ -1,0 +1,68 @@
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.header {
+    padding: 3px 0;
+    width: 100%;
+    background: white;
+}
+
+header ul{
+    display:flex;
+    padding: 0;
+}
+
+header li {
+    padding-right: 20px;
+    list-style: none;
+}
+
+header li a {
+    text-decoration: none;
+    color: #000;
+    display: flex;
+    align-items: center;
+}
+
+.search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input {
+    border-radius: 100px !important;
+}
+
+.image-header-box {
+    margin: 0 10px;
+}
+
+.image-header {
+    width: 45px;
+}
+
+.tweet {
+    padding: 12px 25px;
+    background: rgba(170, 165, 165, 0.6);
+    border-radius: 100px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.list-item-header {
+    margin-left: 2.5px;
+}
+
+.list-item-header.messages {
+    margin-left: 4px;
+}
+

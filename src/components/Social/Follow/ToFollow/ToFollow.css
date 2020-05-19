@@ -1,0 +1,31 @@
+.to-follow-card {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.to-follow-card h5 {
+    margin-right: 5px;
+}
+
+.container-social h4 {
+    font-size: 16.5px ;
+    margin-bottom: 0;
+}
+
+.to-follow-img {
+    width: 50px;
+}
+
+.to-follow-text {
+    display: flex;
+    margin-bottom: 4px;
+}
+
+.btn-follow {
+    padding: 4px 25px;
+    border: 1px solid rgba(170, 165, 165, 0.7);
+    color: rgba(170, 165, 165, 0.7);
+    border-radius: 15px;
+}

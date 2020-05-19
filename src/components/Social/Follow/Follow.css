@@ -1,0 +1,36 @@
+.gmail-icon {
+    width: 20px;
+    margin: 0 5px;
+}
+
+.container-trend {
+    padding: 10px;
+}
+
+.container-email {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.container-email h4 {
+    line-height: 1.2;
+}
+
+.container-email-text {
+    margin-left: 5px;
+}
+
+.email-paragraph {
+    font-size: 13px;
+    line-height: 1;
+    color: rgb(175, 171, 171);
+}
+
+.connect {
+    padding-top: 8px;
+    color: rgb(175, 171, 171);
+    font-size: 13px;
+    display: block;
+    border-top: 1px solid rgb(175, 171, 171, .3);
+}

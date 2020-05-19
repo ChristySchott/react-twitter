@@ -1,0 +1,94 @@
+.container-tweet {
+    flex: 2;
+    margin: 0 5px;
+    padding: 5px;
+    background: white;
+    border-radius: 3px;
+}
+
+.tweet-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(235, 234, 234,.6);
+}
+
+.tweet-profile-img {
+    width: 40px;
+}
+
+.tweet-search-icon {
+    display: flex !important;
+    align-items: center;
+}
+
+.tweet-post {
+    width: 91%;
+}
+
+.tweet-post-description {
+    display: flex;
+    align-items: center;
+}
+
+.description-text-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 5px;
+}
+
+.text-header {
+    display: flex;
+}
+
+.name-tweet {
+    margin: 0 5px;
+}
+
+.description-text-content {
+    padding-right: 6px;
+    margin-left: 5px;
+}
+
+.liked {
+    margin: 10px 0 5px 30px;
+    display: flex;
+    align-items: center;
+    color: rgb(175, 171, 171);
+}
+
+.liked-paragraph {
+    margin-left: 5px;
+}
+
+.post-img-box {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 8px;
+    padding-right: 5px;
+}
+
+.post-img {
+    max-width: 84%;
+    border: 1px solid rgb(241, 241, 241);
+    border-radius: 5px;
+}
+
+.feature-list {
+    display: flex;
+    list-style: none;
+    padding-left: 15%;
+}
+
+.feature-list li {
+    margin-right: 20px;
+}
+
+.feature-list li a {
+    text-decoration: none;
+    color: rgb(175, 171, 171);
+}

@@ -1,0 +1,56 @@
+.container-profile {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    
+    max-width: 300px;
+    padding-left: 5px;
+    padding-top: 30px;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+
+.profile-info {
+    display: flex;
+    align-items: flex-end;
+}
+
+.profile-details {
+    display: flex;
+    align-items: center;
+    padding: 20px 5px;
+}
+
+.detail {
+    margin-right: 15px;
+}
+
+.info-user {
+    margin-left: 5px;
+}
+
+.info-user h4 {
+    line-height: 1;
+}
+
+.detail-number {
+    font-size: 17px;
+    color: rgb(175, 171, 171);
+}
+
+.email {
+    color: rgb(175, 171, 171);
+}
+
+h4 {
+    font-size: 18px;
+    margin-bottom: 2px;
+}
+
+h5 {
+    margin-bottom: 4px;
+}
+
+.user-photo {
+    width: 80px;
+}

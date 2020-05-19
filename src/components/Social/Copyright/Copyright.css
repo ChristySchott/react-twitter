@@ -1,0 +1,30 @@
+.container-copyright {
+    padding: 10px;
+    background: white;
+    border-radius: 3px;
+    margin-top: 5px;
+    font-size: 13px;
+}
+
+.copyright-list ul {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.copyright-list li {
+    list-style: none;
+    margin-right: 10px;
+}
+
+.copyright-list li a {
+    text-decoration: none;
+    color:rgb(175, 171, 171);
+}
+
+.copyright-advertise {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    border-top: 1px solid rgba(175, 171, 171, .3);
+}
