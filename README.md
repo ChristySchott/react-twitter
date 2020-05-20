@@ -35,7 +35,7 @@ O projeto é uma reprodução da página inicial do Twiiter e foi desenvolvido p
 
 ## 🎨 Layout
 
-![Image React Twitter Layout]()
+![Image React Twitter Layout](https://github.com/ChristySchott/react-twitter/blob/master/layout.PNG)
 
 ### Aprendizados:
 
