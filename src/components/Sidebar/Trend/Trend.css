@@ -3,12 +3,12 @@
     border-radius: 3px;
 }
 .trend-title {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 5px;
 }
 
 .change {
     padding: 0 5px;
     color: rgba(161, 158, 158, .5);
-    font-size: 13px;
+    font-size: 12px;
 }
