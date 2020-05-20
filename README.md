@@ -5,6 +5,7 @@
 <p align="center">
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#zap-executando">Executando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#zap-executando">Aprendizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -23,6 +24,14 @@ O projeto é uma reprodução da página inicial do Twiiter e foi desenvolvido p
 - React icons
 
 - Semantic UI
+
+## :zap: Executando
+
+- Baixe e abre o 'react-twitter' no seu editor de texto
+
+- Execute o 'npm install'
+
+- Execute 'npm start'
 
 ## 🎨 Layout
 
